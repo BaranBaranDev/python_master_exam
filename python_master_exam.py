@@ -1,7 +1,6 @@
 '''
 Python Sınav Hazırlık Notları (Vize & Final Formatı)
 Bu dosyada Python'un temel konularını içeren sorular ve çözümleri bulunmaktadır.
-Kod değişkenleri ve fonksiyon isimlendirmeleri İngilizce, ancak açıklamalar Türkçedir.
 '''
 
 # 1. Print Çıktı Sorusu
